@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "****************************"
+echo " get_ tools
+echo "****************************"
+
+echo ""
+echo "get_files - grab files from your source directory and stage them for deployment"
+echo ""
+echo "get_tests - list out the likely test classes from the classes folder"
+echo ""
+echo "clean_files - clear out files previously grabbed"
+
